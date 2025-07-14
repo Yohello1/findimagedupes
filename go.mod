@@ -1,4 +1,4 @@
-module gitlab.com/opennota/findimagedupes
+module github.com/github-userx/findimagedupes.git
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.11
