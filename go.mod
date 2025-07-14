@@ -1,4 +1,4 @@
-module github.com/Yohello1/findimagedupes.git
+module github.com/Yohello1/findimagedupes
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.11
